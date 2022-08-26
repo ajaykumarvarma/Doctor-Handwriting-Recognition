@@ -1,0 +1,2 @@
+# doctor_prescription_recognization_using_dl
+doctor_prescription_recognization_using_DeepLearning project for epics
