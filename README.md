@@ -1,3 +1,3 @@
 # Interpreting Doctor's Prescription
 
-Repo link - https://github.com/ajaykumarvarma/Doctor-Handwriting-Recognition
+[Click Here to view repo](https://github.com/ajaykumarvarma/Doctor-Handwriting-Recognition)
